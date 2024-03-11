@@ -123,9 +123,11 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## OUTPUT
-![image](https://github.com/21005290/GUI-components/assets/112933246/6a350c61-28ff-467f-b8a5-585b0e981c8d)
-![image](https://github.com/21005290/GUI-components/assets/112933246/06cd6daa-b79c-4068-bc5f-6c30b574a9f1)
-![image](https://github.com/21005290/GUI-components/assets/112933246/cd93cb26-15fd-4cb7-aff4-e44e6136e8df)
+![image](https://github.com/21005290/GUI-components/assets/112933246/50d8c456-ecfa-4477-941e-e62038628de4)
+![image](https://github.com/21005290/GUI-components/assets/112933246/b512a9eb-aac1-4a9b-8552-b811760c7f03)
+![image](https://github.com/21005290/GUI-components/assets/112933246/49ecb7be-2ade-433c-953e-85bc8c534f9f)
+
+
 
 
 
